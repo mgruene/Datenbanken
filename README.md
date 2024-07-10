@@ -1,11 +1,5 @@
 # Datenbanken
-Material für Kurs im Fach Datenbanken
 
 
-Aufgrund des Hackerangriffs auf die Frankfurt University, können Sie mich aktuell erreichen unter:
-magruene@live.de
-
-Sofern die Hochschule nicht bis zum 11.7.2024 wieder am Netz ist, werden hier Unterrichtsmaterialien für den Kurs bereitgestellt. Die Bereitstellung dauert wahrscheinlich bis zum 12.07.2024.
-
-Wenn Sie über Updates informiert werden möchten, tragen Sie hier bitte eine Mailadresse ein (nicht fra-uas.de).
-https://forms.gle/1jyZQLYiFenJRxZz7
+# Achtung, das Repository befindet sich nun unter: 
+https://github.com/mgruene/Datenbanken
